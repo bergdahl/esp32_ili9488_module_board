@@ -1,4 +1,5 @@
 *.b#?
 *.s#?
+*.cam
 CAMOutputs/
 .DS_Store
